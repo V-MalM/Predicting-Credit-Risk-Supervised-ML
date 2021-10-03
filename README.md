@@ -76,12 +76,12 @@ Random forest 2020 First Quarter score was : **0.67625426845285**
  * I predict that scaling data will considerably improve logistic regression model and it will outperform Random Forest Model. 
  StandardScaler makes field values compareable by removing the mean and by scaling each feature/variable to unit variance.
  * We know that Random Forst Model is built on decision trees and ensemble methods that do not require feature scaling as they are not sensitive to the the variance in the data. Hence, we might not see significant improvement in Random Forest model.
-## Scaled Training and Testging sets using StandardScaler().fit_transform()
-## Trained the Logistic Regression model on the scaled data and printed the model score
+####Scaled Training and Testging sets using StandardScaler().fit_transform()
+#### Trained the Logistic Regression model on the scaled data and printed the model score
 * Logistic regression model improved considerably after scaling the data.
-## Trained Random Forest Classifier model on the scaled data and printed the model score
+#### Trained Random Forest Classifier model on the scaled data and printed the model score
 * Random Forest has no positive effect with scaled data. It did Not improve.
 * Logistice Regression outperformed random Forest Classifier.
 # Conclusions
 * After scaling the data, Logistic Regression outperformed Random Forest Classifier.
-## LogisticRegression Model Performed well on this Data and we can conclude that it is the right Model.
+### LogisticRegression Model Performed well on this Data and we can conclude that it is the right Model.
