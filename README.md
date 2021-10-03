@@ -82,6 +82,6 @@ Random forest 2020 First Quarter score was : **0.67625426845285**
 #### Trained Random Forest Classifier model on the scaled data and printed the model score
 * Random Forest has no positive effect with scaled data. It did Not improve.
 * Logistice Regression outperformed random Forest Classifier.
-# Conclusions
+## Conclusions
 * After scaling the data, Logistic Regression outperformed Random Forest Classifier.
-### LogisticRegression Model Performed well on this Data and we can conclude that it is the right Model.
+#### LogisticRegression Model Performed well on this Data and we can conclude that it is the right Model.
