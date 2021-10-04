@@ -87,4 +87,6 @@ Random forest 2020 First Quarter score was : **0.683609**
 * Logistice Regression outperformed Random Forest Classifier.
 ## Conclusions
 * After scaling the data, Logistic Regression outperformed Random Forest Classifier.
+    * 2020 First Quarter score for Logistic Regression : **0.754268** 
+    * 2020 First Quarter score for Random Forest       : **0.613607** 
 #### LogisticRegression Model Performed well on this Data and we can conclude that it is the right Model to predict whether a loan from LendingClub will become high risk or not.
