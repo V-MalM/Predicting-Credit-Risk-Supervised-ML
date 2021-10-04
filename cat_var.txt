@@ -1,0 +1,39 @@
+home_ownership
+verification_status
+verification_status
+pymnt_plan
+delinq_2yrs ??
+initial_list_status
+policy_code
+app_type
+acc_now_delinq
+mort_acc
+num_tl_120dpd_2m	
+num_tl_30dpd	
+num_tl_90g_dpd_24m	
+num_tl_op_past_12m
+pub_rec_bankruptcies	
+tax_liens
+hardship_flag	
+debt_settlement_flag
+
+https://academic.oup.com/jfec/advance-article/doi/10.1093/jjfinec/nbab010/6313398#267157061
+
+able 3Explanatory variables used to predict the occurrence of a default
+Feature	Attribute	Type	Description
+Loan-specific variables 
+DTI 	Static 	Numeric 	DTI at origination 
+Interest rate type 	Static 	Categorical 	Interest rate type 
+Interest rate 	Dynamic 	Numeric 	Interest rate at the pool cutoff date 
+LTV 	Dynamic 	Numeric 	LTV at pool cutoff-date 
+Property type 	Static 	Categorical 	Property type of the underlying asset 
+Seniority 	Dynamic 	Numeric 	Loan seniority at origination (in days) 
+Valuation amount 	Static 	Numeric 	Property value as at loan origination (in logs) 
+Borrower-specific variables 
+Borrower’s employment 	Static 	Categorical 	Employment status of the applicant at origination 
+Income 	Static 	Numeric 	Borrower gross annual income at origination (in logs) 
+Regional-specific variables 
+Default rate 	Dynamic 	Numeric 	Default rate (%) by NUTS3 lagged 1 year 
+GDP growth 	Dynamic 	Numeric 	GDP percentage growth by NUTS2 lagged 1 year 
+House Price growth 	Dynamic 	Numeric 	House price percentage growth by NUTS3 lagged 1 year 
+Unemployment rate growth 	Dynamic 	Numeric 	Unemployment rate growth by NUTS2 lagged 1 year 

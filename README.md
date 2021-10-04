@@ -48,7 +48,7 @@ When creating a predictive model, both the techniques should be tried and the be
 
 ## A prediction as to which model will perform better before I created, fit, and scored the models. 
 I predict Logistic regression will perform better because it works best for binany classification problems. The data in question has binary output belonging to one class or the other (High Risk, Low Risk).  
-However, there is also a high number of explanatory variables in the dataset that might make Random Forest a better predictor. 
+However, there are a number of categorical and explanatory variables in the dataset that might make Random Forest a better predictor. 
 I still stick with Logical Regression.
 
 **LET's FIND OUT**
