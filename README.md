@@ -72,8 +72,8 @@ Steps :
         * Takes longer execution time each time a parameter/parameters is/are changed
 ## Results
 Unlike my prediction, The Random Forest Classifier performed far better then the logistic regression model on unscaled data.   
-2020 First Quarter score was : **0.4913317572892041** for Logistic regression model.  
-Random forest 2020 First Quarter score was : **0.67625426845285**
+2020 First Quarter score was : **0.491332** for Logistic regression model.  
+Random forest 2020 First Quarter score was : **0.683609** 
 ## Revisit the Preprocessing: Scale the data
  * I predict that scaling data will considerably improve logistic regression model and it will outperform Random Forest Model. 
  StandardScaler makes field values compareable by removing the mean and by scaling each feature/variable to unit variance.
