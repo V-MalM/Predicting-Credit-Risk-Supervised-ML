@@ -36,7 +36,7 @@ Task was to use this data to create machine learning models to classify the risk
 Both the models are popular in machine learning. They are both efficient in generating reliable models for predictive modelling.
 
 * Logistic Regression is less complex, and less prone to over-fitting. 
-* It does not require any parameters to tune.
+* It does not have any critical parameters to tune.
 * It performs best with scaled data.  
 <br />
 
