@@ -85,6 +85,13 @@ Random forest 2020 First Quarter score was : **0.683609**
 #### Trained Random Forest Classifier model on the scaled data and printed the model score
 * Random Forest's performance did not improve with scaled data.
 * Logistice Regression outperformed Random Forest Classifier.
+
+#### Included the following for Both Models:
+* Confusion matrices and classification reports to give us information about precision and recall in addition to accuracy. 
+
+* Added Feature importance in descending order to tell us which feature had the most influence in creating an accurate model.
+
+
 ## Conclusions
 * After scaling the data, Logistic Regression outperformed Random Forest Classifier.
     * 2020 First Quarter score for Logistic Regression : **0.754268** 
